@@ -1,0 +1,10 @@
+{
+  "name": "self-introduction",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.6.2",
+  "scripts": {
+    "dev": "corepack pnpm -r --parallel dev",
+    "build": "corepack pnpm -r build"
+  }
+}
